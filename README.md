@@ -6,3 +6,4 @@ terdiri dari beberapa angkatan
 2022 angkatan ke 3
 2023 angkatan ke 4 
 2024 angkatan ke 5 
+2025 angaktan ke 6
