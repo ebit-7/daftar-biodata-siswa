@@ -8,3 +8,4 @@ terdiri dari beberapa angkatan
 2024 angkatan ke 5 
 2025 angaktan ke 6
 *aku sangat senang dengan materi ini
+$aku
